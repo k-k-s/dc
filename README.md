@@ -1,4 +1,4 @@
-# donkeycar: a python self driving library
+# donkeycar: a python self driving library (adapted from the original version)
 
 [![Build Status](https://travis-ci.org/wroscoe/donkey.svg?branch=dev)](https://travis-ci.org/wroscoe/donkey)
 [![CodeCov](https://codecov.io/gh/wroscoe/donkey/branch/dev/graph/badge.svg)](https://codecov.io/gh/wroscoe/donkey/branch/dev)
